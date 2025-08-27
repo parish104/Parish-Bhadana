@@ -1,0 +1,106 @@
+eference 1: Health Monitoring Devices & Apps
+Science
+
+    Accurate Biomedical Data: These devices measure precise health metrics such as heart rate (beats per minute), blood glucose levels (mmol/L), and body composition (percentages of fat, water, and muscle).
+    Scientific Standards: Data is presented using internationally recognized units, ensuring it’s verifiable and scientifically meaningful.
+    Data Visualization: Complex numerical data is simplified through graphical elements like bars, meters, and color coding for easy user interpretation.
+
+Language and Literature
+
+    Motivational Language: Phrases like “Great job!” or “You need a boost!” are used to reduce user anxiety and encourage continued engagement with the device.
+    Multimodal Communication: Combines textual feedback, visuals, and interactive features to make scientific data more accessible to users.
+    Behavioral Science Integration: Employs positive reinforcement, drawing from psychological theories to motivate users and support habit formation.
+
+Integration, Benefits, and Limitations
+
+    Integration: Science provides the raw health data, while language translates it into encouraging, user-friendly messages and visuals.
+    Benefits:
+        Science: Simplifies complex data, enabling informed health decisions for all users.
+        Language and Literature: Boosts engagement and trust through a positive tone and clear communication.
+    Limitations:
+        Science: Oversimplification may lead to misinterpretation; proprietary algorithms lack transparency.
+        Language and Literature: Overly positive language might create a false sense of security; lacks detailed scientific explanations.
+
+Reference 2: Where Does My Data Go? (Video Script)
+Science
+
+    Digital Systems: Explains the technical processes of how apps collect, store, and utilize personal data.
+    Data Ethics: Addresses the scientific and ethical implications, such as data persistence and corporate control over user information.
+
+Language and Literature
+
+    Expository Script: Uses rhetorical questions and repetition to build tension and engage viewers emotionally.
+    Tone and Structure: Adopts an informative yet cautionary tone, structured to guide viewers toward critical reflection on data practices.
+
+Integration, Benefits, and Limitations
+
+    Integration: Science provides the factual basis of data systems, while language crafts a compelling narrative to highlight risks and ethics.
+    Benefits:
+        Science: Educates users about data collection, enhancing digital literacy.
+        Language and Literature: Engages viewers emotionally and encourages critical thinking through rhetorical devices.
+    Limitations:
+        Science: Lacks in-depth technical details about data systems; risks are generalized.
+        Language and Literature: Cautionary tone may overemphasize negatives; assumes viewers have some prior knowledge of terms.
+
+Reference 3: Four Perspectives on Data Collection
+Science
+
+    Real-Life Applications: Demonstrates how wearable tech is used for health management, such as in diabetes care or fitness tracking.
+    User Experience: Examines differences in trust and usage across age groups, grounded in practical observations.
+
+Language and Literature
+
+    Narrative and Tone: Features distinct language for each stakeholder (e.g., a patient, a tech developer), reflecting their unique perspectives and biases.
+    Point of View: Highlights how media shapes perceptions by emphasizing stakeholder motivations and emotional tones.
+
+Integration, Benefits, and Limitations
+
+    Integration: Science offers real-world examples of data use, while language provides narrative depth to reveal diverse human experiences.
+    Benefits:
+        Science: Contextualizes data’s practical impact and acknowledges user diversity.
+        Language and Literature: Builds empathy and teaches critical analysis of biases through varied voices.
+    Limitations:
+        Science: Relies on anecdotal evidence rather than broad empirical data; scope is limited to a few perspectives.
+        Language and Literature: Narratives may not represent all users; emotional tones could obscure objectivity.
+
+Reference 4: Journalistic Text Types
+Science
+
+    Science Communication: Analyzes how scientific concepts, like health or technology data, are presented in various media formats.
+    Critical Evaluation: Encourages scrutiny of scientific claims made in journalism, fostering a scientific mindset.
+
+Language and Literature
+
+    Text Type Analysis: Breaks down the purpose, tone, and structure of media forms like ads, opinion pieces, news articles, and explainers.
+    Media Literacy: Teaches how language in media influences perceptions of scientific information.
+
+Integration, Benefits, and Limitations
+
+    Integration: Science provides the content (e.g., health tech facts), while language examines how it’s communicated and interpreted in media.
+    Benefits:
+        Science: Promotes critical thinking about scientific claims; improves clarity in science writing.
+        Language and Literature: Enhances media literacy by revealing purpose and bias in texts.
+    Limitations:
+        Science: Focuses more on communication than scientific depth; examples are generalized.
+        Language and Literature: Simplifies text types, potentially missing nuances; assumes basic media knowledge.
+
+Reference 5: Advertising Campaign - "Step by Step"
+Science
+
+    Health Metrics: Ties the campaign to measurable data like body composition (weight, fat %, water %) tracked by devices.
+    Behavioral Science: Leverages principles of self-monitoring and habit formation to encourage health improvements.
+
+Language and Literature
+
+    Persuasive Techniques: Employs repetition, slogans, and a motivational tone to inspire action.
+    Visual and Verbal Messaging: Pairs positive reinforcement with progress visuals to make the campaign memorable and appealing.
+
+Integration, Benefits, and Limitations
+
+    Integration: Science supplies the health data and behavioral insights, while language crafts an emotionally compelling campaign to drive engagement.
+    Benefits:
+        Science: Raises health awareness and supports behavior change through tracking.
+        Language and Literature: Engages users emotionally and promotes consistency with a positive tone.
+    Limitations:
+        Science: Lacks transparency about data processes; may foster over-reliance on the campaign’s claims.
+        Language and Literature: Oversimplifies science for emotional appeal; persuasive tone risks manipulation.
